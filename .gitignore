@@ -1,0 +1,19 @@
+# Git ignore
+.git/
+.gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.bak
